@@ -1,0 +1,18 @@
+﻿body {
+}
+
+.tableAd{
+    width:800px;
+    height: 600px;
+    position:absolute;
+}
+
+.textBoxAd{
+    width: 600px;
+    height: 25px;
+}
+
+.labelAd {
+    width: 200px;
+    height: 25px;
+}
